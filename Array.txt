@@ -1,0 +1,16 @@
+class arraydemo
+  {
+    public static void main(String args[])
+      {
+       int[] Arr;
+       Arr=new int[5];
+       Arr=[0]=10;
+       Arr=[1]=20;
+       Arr=[2]=30;
+       Arr=[3]=40;
+       System.out.println("Element at index 0:"+Arr[0]);
+       System.out.println("Element at index 1:"+Arr[1]);
+       System.out.println("Element at index 2:"+Arr[2]);
+       System.out.println("Element at index 3:"+Arr[3]);
+      }
+  }
